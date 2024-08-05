@@ -89,3 +89,4 @@ allprojects {
 - [Firebase Server 설정](https://tech.junhabaek.net/백엔드-서버-아키텍처-presentation-layer-3-응답-유형에-따른-variation-2-push-notification-1eacb4df4a7e)
 
 ```
+- https://dev-vlog200ok.tistory.com/32 nodejs 초기 설정
